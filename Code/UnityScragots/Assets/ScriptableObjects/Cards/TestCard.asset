@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56e73422d00413f49a6079b146b3e6b4, type: 3}
   m_Name: TestCard
   m_EditorClassIdentifier: 
-  cardName: Test
-  health: 2
-  attack: 2
-  abilities:
-  - {fileID: 11400000, guid: 40c6b7d23063a9641b455cd71e9040ae, type: 2}
-  - {fileID: 11400000, guid: e4cbe88552b62c94ca9335d1ef263321, type: 2}
+  cardName: "Seigneur de la for\xEAt"
+  power: 60
+  resistance: 120
+  type: 0
+  rarity: 0

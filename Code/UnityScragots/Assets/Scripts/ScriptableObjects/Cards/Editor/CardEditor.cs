@@ -11,11 +11,6 @@ namespace ScriptableObjects.Cards.Editor
             base.OnInspectorGUI();
 
             var card = (Card) target;
-            
-            if (GUILayout.Button("Use Abilities"))
-            {
-                card.UseAbilities();
-            }
         }
     }
 }
